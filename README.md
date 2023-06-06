@@ -1,7 +1,7 @@
 ### Overview
 
 This is a REST API for the CSV dataset found at [DataSF.org](https://data.sfgov.org/Economy-and-Community/Mobile-Food-Facility-Permit/rqzj-sfat/data). It is built using [NestJS](https://nestjs.com/) and hosted at https://elc-engineering-challenge-production.up.railway.app/food-trucks. A frontend that uses this API to display food truck data
-can be found at https://elc-engineering-challenge-frontend.vercel.app/. The frontend is built using React and (Mapbox)[https://www.mapbox.com/]to render the markers on the map. The frontend repository can be found at - https://github.com/longj724/ELC-Engineering-Challenge-Frontend.
+can be found at https://elc-engineering-challenge-frontend.vercel.app/. The frontend is built using React and [Mapbox](https://www.mapbox.com/) to render the markers on the map. The frontend repository can be found at - https://github.com/longj724/ELC-Engineering-Challenge-Frontend.
 
 ### Documentation
 
