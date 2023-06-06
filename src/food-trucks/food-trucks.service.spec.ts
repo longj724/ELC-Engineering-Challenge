@@ -78,7 +78,7 @@ describe('FoodTrucksService', () => {
     await expect(getFoodTrucks).resolves.toStrictEqual(allMockTruckData);
   });
 
-  it('return all food trucks that serve donuts', async () => {
+  it('return all food trucks that serve bbq chicken', async () => {
     const foodItems = 'bbq chicken';
     httpService.axiosRef.mockResolvedValue({
       data: foodTruckCSV,
